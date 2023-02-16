@@ -1,4 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jakob =============================================================================================================================  Software Engineer and CS Student --------------------------------  * 🌍  I'm based in Frankfurt (Main) * ✉️  You can contact me at [jis3r@protonmail.com](mailto:jis3r@protonmail.com) * 🚀  I'm currently working on [5 Schnelle Fragen (11k+ MAU)](http://5schnellefragen.de) * 🧠  I'm learning TensorFlow
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jakob
+=============================================================================================================================  
+Software Engineer and CS Student
+--------------------------------  
+* 🌍  I'm based in Frankfurt (Main) 
+* ✉️  You can contact me at [jis3r@protonmail.com](mailto:jis3r@protonmail.com) 
+* 🚀  I'm currently working on [5 Schnelle Fragen (11k+ MAU)](http://5schnellefragen.de) 
+* 🧠  I'm learning TensorFlow
 
 ### Skills  
 
