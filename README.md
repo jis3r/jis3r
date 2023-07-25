@@ -1,7 +1,7 @@
 Hi 👋 My name is Jakob
 ======================
 
-Software Engineer and CS Student
+Software Engineer
 --------------------------------
 
 * 🌍  I'm based in Germany
