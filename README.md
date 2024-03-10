@@ -1,7 +1,7 @@
 Hi 👋 My name is Jakob
 ======================
 
-Software Egnineer
+Software Engineer
 -----------------
 
 I build things.
