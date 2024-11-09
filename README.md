@@ -6,11 +6,6 @@ Software Engineer
 
 I build things.
 
-* 🌍  I'm based in Germany
-* ✉️  You can contact me at [jis3r@protonmail.com](mailto:jis3r@protonmail.com)
-* 🚀  I'm currently working on [5 Schnelle Fragen](http://5schnellefragen.de)
-* 🧠  I'm learning how to build mobile apps with webframeworks
-
 ### Skills
 
 
