@@ -1,10 +1,8 @@
 Hi 👋 My name is Jakob
 ======================
 
-Software Engineer
------------------
-
 I build things.
+-----------------
 
 ### Skills
 
