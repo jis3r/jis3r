@@ -23,5 +23,3 @@ I build things.
 <a href="http://www.github.com/jis3r"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jis3r&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/jis3r" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jis3r&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-[![wakatime](https://wakatime.com/badge/user/23c2cb4b-7e9f-41f4-89b2-dd0e9e6431b7.svg)](https://wakatime.com/@23c2cb4b-7e9f-41f4-89b2-dd0e9e6431b7)
